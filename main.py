@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-token = "TOKEN_HERE"
+token = "OTE2MDYwNzkyMDQ1MDQzNzEz.YiRT-A.VquBFYKRQ-3DTeHtGPTnqS5tL6c"
 
 bot = commands.Bot(command_prefix = "123456789")
 
